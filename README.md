@@ -1,5 +1,8 @@
 # web-peanut
-Crappy game engine made in turbowarp lol
-its crap so don't waste your time!
+Hello who ever reads this.
+  this is a cool project that i decided to work on,
+  dont expect much, I suck, and this was made in Turbowarp/Scratch.
+  its just a little coding language I made, its bad... like REALLY bad, as i write this,
+  ONLY the home page is done, Im quite bad at this stuff. Sorry.
 
-made in turbowarp, so dont expect a triple [A] engine, lol
+Bye, whoever reads this.
